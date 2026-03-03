@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+print("************")
+print("*          *")
+print("*   " + name + "   *")
+print("*          *")
+print("************")
